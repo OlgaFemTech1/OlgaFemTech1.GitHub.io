@@ -20,9 +20,10 @@ header{
 }
 li, a {
     font-size: 25px;
-    color: black;
+    color: #1B0A2A;
     text-decoration: none;
     list-style: none;
+    margin: auto;
 }
 header .active{
     padding: 25px 32px;
@@ -91,6 +92,7 @@ header a:hover{
     }
     h2{
         font-size: medium;
+        color: #1B0A2A;
     }
     .container {
         display: flex;
@@ -125,7 +127,7 @@ header a:hover{
         padding: 0 10px 0 10px;
     }
     .fa-linkedin,.fa-github{
-        color: black;
+        color: #1B0A2A;
         margin-top: 10px;
     }
     .present{
