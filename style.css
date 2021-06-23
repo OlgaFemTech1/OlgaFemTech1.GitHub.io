@@ -4,10 +4,10 @@
     margin: 0;
 }
 body {
-    background-color:mediumturquoise;
+    background-color:#9965b4;
 }
 header{
-    background-color: aquamarine;
+    background-color: #8a51bd;
     display:flex;
     justify-content:space-between;
     align-items: center;
@@ -79,12 +79,12 @@ header a:hover{
     margin-top: auto;
     padding: 10px 10px 10px 10px;
 }
-@media(max-width: 800px) and (min-width: 220px){
+@media(max-width: 800px) and (min-width: 330px){
     nav{
         justify-content: space-around;
     }
     li, a{
-        font-size: medium;
+        font-size: large;
     }
     h1{
         font-size: large;
